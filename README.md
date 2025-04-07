@@ -30,7 +30,7 @@ cargo install mdbook-llms-txt-tools
 [output.llms-txt]
 
 # Detailed llmstxt.org format output with additional information
-[output.llms-full-txt]
+[output.llms-txt-full]
 ```
 
 2. Run `mdbook build` as usual, and files will be generated in your chosen output format.
